@@ -17,14 +17,14 @@ const Projects = () => {
           description="A simple Website to post your medical quries"
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/Screenshot (159).png"
+          title="Moblie AI-chat app"
+          description="A simple user friendly app which allows them to use any customized AI that they wanna chat with."
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="A space themed portfolio website "
         />
       </div>
     </div>
