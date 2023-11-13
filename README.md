@@ -1,1 +1,1 @@
-https://vercel.com/kishores-projects-44ea4ec1/portfolio
+https://portfolio-gamma-jet-98.vercel.app/
