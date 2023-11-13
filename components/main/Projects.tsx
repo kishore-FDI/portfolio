@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/proj1.png"
+          src="/proj1.jpeg"
           title="Medical Chat-site"
           description="A simple Website to post your medical quries"
         />
